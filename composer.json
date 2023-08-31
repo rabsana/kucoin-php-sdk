@@ -8,17 +8,16 @@
     "api",
     "sdk"
   ],
-  "homepage": "https://github.com/Kucoin/kucoin-php-sdk",
+  "homepage": "https://github.com/rabsana/kucoin-php-sdk",
   "support": {
-    "source": "https://github.com/Kucoin/kucoin-php-sdk",
-    "issues": "https://github.com/Kucoin/kucoin-php-sdk/issues"
+    "source": "https://github.com/rabsana/kucoin-php-sdk",
+    "issues": "https://github.com/rabsana/kucoin-php-sdk/issues"
   },
-  "authors": [
-    {
-      "name": "KuCoin",
-      "email": "php@kucoin.com"
-    }
-  ],
+  "authors": [{
+    "name": "Sajjad Sisakhti",
+    "email": "sajjad.30sakhti@gmail.com",
+    "homepage": "https://rabsana.ir"
+  }],
   "require": {
     "php": ">=5.5.0",
     "ext-json": "*",
